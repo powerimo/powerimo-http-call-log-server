@@ -1,4 +1,4 @@
-package org.powerimo.simplehttpcalllogserver.controllers;
+package org.powerimo.httpcalllogserver.controllers;
 
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;
