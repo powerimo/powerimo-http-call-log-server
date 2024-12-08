@@ -58,7 +58,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>org.powerimo.secret.server.PowerimoSecretServerApplication</mainClass>
+                    <mainClass>org.powerimo.simplehttpcalllogserver</mainClass>
                     <excludes>
                         <exclude>
                             <groupId>org.projectlombok</groupId>
